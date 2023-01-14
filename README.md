@@ -15,10 +15,13 @@ A script to create a Python virtual environment, also activates that environment
 | ***env_name***| name of the virtual environment to be created.    |
 | ***flask or streamlit***  | (Optional) installs Flask or Streamlit in the virtual environment.       |
 | ***vscode*** | (Optional) opens the current directory in Visual Studio Code. |
+
 `./venvcreator.sh -H or --help` or `./venvcreator.ps1 -H or --help`
+
 | Argument     | Description |
 | ----------- | ----------- |
 | ***-H or --help***  |  shows help for this script. |
+
 ## Example
 `./venvcreator.sh myenv flask vscode`
 > This will create a virtual environment named myenv, install Flask and open the current directory in Visual Studio Code.
