@@ -1,3 +1,4 @@
+# clear the screen!
 Clear-Host
 
 if ($args[0] -eq "--help" -or $args[0] -eq "-H" -or $args.Count -eq 0) {

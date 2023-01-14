@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Clear the screen!
 clear
 
 if [ "$1" == "--help" ] || [ "$1" == "-H" ] || [ $# -eq 0 ]; then
