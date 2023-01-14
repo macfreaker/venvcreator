@@ -27,7 +27,6 @@ A script to create a Python virtual environment, also activates that environment
 > This will create a virtual environment named myenv, install Flask and open the current directory in Visual Studio Code.
 ## Requirements
 - Python 3 which is licensed under the Python Software Foundation License
-  [https://docs.python.org/3/license.html](https://docs.python.org/3/license.html)
 - Visual Studio Code (if ***vscode*** argument is passed)
 ## Licenses
 - Python 3: [Python Software Foundation License](https://docs.python.org/3/license.html)
